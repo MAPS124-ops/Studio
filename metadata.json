@@ -1,0 +1,6 @@
+{
+  "name": "Scholar Snake",
+  "description": "An educational arcade snake game inspired by Google Snake where players slither across a grid to eat correct answers across Math, Science, Geography, Vocabulary, and Computer Science.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
